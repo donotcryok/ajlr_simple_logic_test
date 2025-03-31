@@ -9,7 +9,7 @@
 #include <linux/sched/nohz.h>
 #include <linux/sched/stat.h>
 #include <linux/sched/rt.h>
-#include <linux/sched/fair.h>
+//#include <linux/sched/fair.h>
 #include <linux/list.h>
 #include <linux/init.h>
 #include <linux/module.h>
